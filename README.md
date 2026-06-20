@@ -11,9 +11,9 @@ Passionate about turning data into meaningful insights and building intelligent 
 ## 🚀 What I'm working on
 
 - 📊 Exploring **machine learning** and **deep learning** techniques
--   - 💻 Building projects at the intersection of **AI and software development**
-    -     - 📚 Continuously learning new tools and frameworks in Data Science
- 
+- - 💻 Building projects at the intersection of **AI and software development**
+  - - 📚 Continuously learning new tools and frameworks in Data Science
+   
     - ---
 
     ## 🛠️ Technologies & Tools
@@ -29,14 +29,10 @@ Passionate about turning data into meaningful insights and building intelligent 
 
     ## 📊 GitHub Stats
 
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dvargas-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Damian's GitHub Stats" height="165"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvargas-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-    </p>p>
+    ![Damian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvargas-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvargas-ai&layout=compact&theme=tokyonight&hide_border=true)
 
-    <p align="center">
-      <img src="https://streak-stats.demolab.com?user=dvargas-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </p>p>
+    ![GitHub Streak](https://streak-stats.demolab.com?user=dvargas-ai&theme=tokyonight&hide_border=true)
 
     ---
 
