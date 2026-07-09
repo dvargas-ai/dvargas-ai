@@ -49,8 +49,8 @@ Recién voy empezando este camino, y la verdad ese es el punto — este perfil v
 
 ## 📊 GitHub Stats
 
-![Damian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvargas-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvargas-ai&layout=compact&theme=tokyonight&hide_border=true)
+![Damian's GitHub Stats](https://github-readme-stats-cyan-chi-36.vercel.app/api?username=dvargas-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-cyan-chi-36.vercel.app/api/top-langs/?username=dvargas-ai&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dvargas-ai&theme=tokyonight&hide_border=true)
 
